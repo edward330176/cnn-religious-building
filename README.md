@@ -27,7 +27,7 @@ A basic CNN model is constructed with the following layers:
 - **Conv2D -> MaxPooling -> Conv2D -> MaxPooling -> Conv2D -> MaxPooling -> Flatten -> Dense -> Dropout -> Dense -> Softmax**
 - The model is trained for 30 epochs with early stopping to prevent overfitting.
 
-![simple_acc_loss](img/simepl_acc_loss.png)
+![simple_acc_loss](img/simple_acc_loss.png)
 
 ### 2. **VGG16**
 - Using VGG16, a pre-trained model on ImageNet, we build a more robust model by adding custom layers to the VGG16 base.

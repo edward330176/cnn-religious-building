@@ -4,6 +4,8 @@
 
 This project focuses on building and training Convolutional Neural Networks (CNNs) to classify images into categories. TensorFlow and Keras libraries are utilized, and the dataset consists of images of religious buildings like churches, mosques, and temples.
 
+**P.S. PLEASE CHECK OUT THE CODE FOLDER FOR DETAIL EXPLANATION.**
+
 ---
 
 ## Data Preparation

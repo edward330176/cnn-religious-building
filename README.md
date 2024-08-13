@@ -1,4 +1,4 @@
-# Convolutional Neural Network (CNN) Project
+# Convolutional Neural Network (CNN) to Classify Religious Buildings
 
 ## Introduction
 
